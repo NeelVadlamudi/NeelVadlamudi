@@ -1,37 +1,64 @@
+<div align="center">
+
 # Neel Vittal Bharath Vadlamudi
 
-AI / Data Engineer focused on data scaling, ML systems, and real-world analytics.
+**Data-to-ML Engineer | Applied ML | Data Engineering | ML Systems**
 
-I build pipelines that turn noisy, multi-source data into model-ready datasets, evaluation metrics, dashboards, and decision tools. My strongest work sits at the intersection of Python, PyTorch, PySpark, Databricks, Kubernetes, and practical machine learning.
+Boston, MA | [LinkedIn](https://linkedin.com/in/neel109) | [Email](mailto:v.n.v.bharath@gmail.com) | [Portfolio](https://github.com/NeelVadlamudi/neelresume)
 
-## Quick Signal
+</div>
 
-- Built an IoT air-quality forecasting capstone from NodeMCU, PMS5003, and MQ-7 sensors through pipeline, model, and dashboard layers; achieved >92% forecasting accuracy against pollution-board data using LSTM/XGBoost workflows.
-- Supported road-safety analytics research with Databricks/PySpark workflows across 2.3M+ multi-source records; reduced runtime 43% and data preparation time 70%.
-- Hosted a Kubernetes-based cloud workspace for remote researchers, enabling shared reproducible environments, real-time notebook/code changes, and 99.7% workspace availability.
-- Replicated a transformer research paper authored by a Meta AI researcher by implementing the algorithm, analyzing linear algebra behavior, running 12+ benchmark datasets, and improving classification accuracy 15%.
+---
 
-## Featured Work
+I build production-minded data and ML systems: regulatory data pipelines, research-grade model evaluation, cloud workspaces, and full-stack analytics products that turn noisy real-world data into decisions.
 
-| Project | What It Solves | Stack |
-|---|---|---|
-| [CDC Outbreak AI Dashboard](https://github.com/NeelVadlamudi/cdc-outbreak-dashboard) | Turns CDC outbreak data into searchable, forecastable, stakeholder-friendly public-health intelligence. | React, FastAPI, Python, DuckDB, CDC SODA API, LSTM, Plotly, WebGL |
-| [UMBC SmartShuttle](https://github.com/NeelVadlamudi/UMBC-SmartShuttle) | Predicts shuttle demand, identifies peak ridership patterns, supports event-aware routing, and estimates sustainability impact. | Apache Spark, Spark SQL, MLlib, Databricks, Python |
-| [Banking Analytics Platform](https://github.com/NeelVadlamudi/banking_analytics) | Converts market and portfolio data into risk, return, drawdown, optimization, and reporting metrics. | Python, Flask, SQLite, pandas, scikit-learn, scipy |
-| Breathe Easy AQI Forecasting | Converts raw sensor streams into air-quality forecasts and a dashboard loop for weekly monitoring. | NodeMCU, PMS5003, MQ-7, LSTM, XGBoost, Python |
+My strongest lane is applied data-to-ML engineering: the space between raw data, reliable pipelines, model performance, explainability, and stakeholder-ready delivery.
 
-## Core Skills
+## Hiring Signal
 
-**Data Engineering:** Python, SQL, PySpark, Databricks, DuckDB, ETL/ELT, data quality checks, pipeline optimization  
-**Machine Learning:** PyTorch, Hugging Face, scikit-learn, LSTM, XGBoost, feature engineering, model evaluation  
-**Cloud and Systems:** Kubernetes, Azure, reproducible research workspaces, API-backed applications  
-**Analytics and Communication:** dashboards, KPI design, scenario analysis, stakeholder reporting, technical documentation
+| Signal | Evidence |
+|---|---|
+| Financial data systems | At HDFC Bank, supported Automated Data Flow across 8 source systems and 500K+ daily records, reducing reconciliation errors 60% and preventing $2.1M in exposure. |
+| Data infrastructure | Built Azure Databricks Bronze/Silver/Gold workflows across 2.3M+ records from 5 agencies; reduced runtime from 14h to 8h and supported Kubernetes infrastructure with 99.7% uptime. |
+| Applied ML research | In UMBC research with Meta AI collaboration, fine-tuned BERT/GPT/T5 across 12+ datasets, improved accuracy 15%, and surfaced 3 systematic bias issues through adversarial evaluation. |
+| End-to-end ML products | Built SBDR, a customer risk intelligence system over 30,000 customers with 93.4% accuracy, 0.990 AUC-ROC, SHAP/LIME explainability, and demographic fairness auditing. |
 
-## Current Focus
+## Where I Fit Best
 
-I am currently focused on data scaling for AI systems: improving dataset quality, diversity, evaluation coverage, and feedback loops so models perform better on real-world edge cases.
+| Hiring lane | Why the fit is strong |
+|---|---|
+| Applied Data Scientist / ML Engineer | SBDR, CDC Outbreak AI, transformer evaluation, explainability, forecasting, and benchmark-driven model improvement. |
+| Data Engineer / Analytics Engineer | Databricks, PySpark, medallion ETL, HDFC regulatory pipelines, multi-source reconciliation, and runtime optimization. |
+| Fintech / Risk Analytics | HDFC regulatory automation, debt recovery intelligence, portfolio risk metrics, anomaly detection, and executive reporting. |
+| Healthcare / Public Sector AI | CDC surveillance analytics, IoT air-quality forecasting, transportation safety analytics, and client-facing dashboards. |
+
+## Featured Systems
+
+| System | Problem Solved | Outcome | Stack |
+|---|---|---|---|
+| [CDC Outbreak AI Dashboard](https://github.com/NeelVadlamudi/cdc-outbreak-dashboard) | Converts public-health outbreak data into searchable, forecastable intelligence. | LSTM surge forecasting, DuckDB analytics, Monte Carlo uncertainty, RAG-style plain-English access. | React, FastAPI, Python, DuckDB, CDC SODA API, LSTM, Plotly, WebGL |
+| SBDR: Sentimental-Behavioral Debt Recovery | Classifies customer recovery risk with explainable ML instead of static repayment rules. | 93.4% accuracy, 0.990 AUC-ROC, 26.1% SHAP signal, fairness audit across 30,000 customers. | FinBERT, BiLSTM, XGBoost, SHAP, LIME, Streamlit |
+| [UMBC SmartShuttle](https://github.com/NeelVadlamudi/UMBC-SmartShuttle) | Predicts shuttle demand and supports event-aware campus transportation decisions. | 85% decision-tree accuracy, route clustering, peak-load analysis, sustainability metrics. | Apache Spark, Spark SQL, MLlib, Databricks, Python |
+| [Banking Analytics Platform](https://github.com/NeelVadlamudi/banking_analytics) | Turns portfolio and market data into risk, return, drawdown, and optimization metrics. | VaR/CVaR, Sharpe/Sortino, Monte Carlo simulation, NLP sentiment, reporting API. | Python, Flask, SQLite, pandas, scikit-learn, scipy |
+| Breathe Easy AQI Forecasting | Converts sensor streams into air-quality forecasts and monitoring dashboards. | 92%+ forecasting accuracy against pollution-board data with a documented refresh cadence. | NodeMCU, PMS5003, MQ-7, LSTM, XGBoost, Python |
+
+## Technical Stack
+
+**Languages:** Python, SQL, JavaScript  
+**Data Engineering:** PySpark, Databricks, Spark SQL, DuckDB, pandas, ETL/ELT, data quality checks, pipeline optimization  
+**Machine Learning:** PyTorch, Hugging Face, scikit-learn, XGBoost, LSTM, Transformers, SHAP, LIME, model evaluation  
+**Applications:** FastAPI, Flask, Streamlit, React, Plotly, Power BI, Tableau  
+**Cloud and Infrastructure:** Kubernetes, Azure Databricks, reproducible cloud workspaces, API-backed analytics systems  
+**Domains:** financial risk, healthcare surveillance, road safety, transportation analytics, IoT sensor forecasting
+
+## What Recruiters Should Look For
+
+- I am strongest in roles where the team needs someone who can move from messy data to model-ready datasets, evaluation metrics, and usable decision tools.
+- I am not only a notebook builder; my work includes production pipelines, Kubernetes-hosted research environments, API layers, dashboards, and client-facing delivery.
+- My best-fit titles are Applied Data Scientist, ML Engineer, Data Engineer, Analytics Engineer, and AI Engineer for product or platform teams.
 
 ## Links
 
+- LinkedIn: [linkedin.com/in/neel109](https://linkedin.com/in/neel109)
 - GitHub: [github.com/NeelVadlamudi](https://github.com/NeelVadlamudi)
-- Resume / portfolio: [neelresume](https://github.com/NeelVadlamudi/neelresume)
+- Portfolio / resume repo: [github.com/NeelVadlamudi/neelresume](https://github.com/NeelVadlamudi/neelresume)
