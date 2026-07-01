@@ -4,7 +4,7 @@
 
 **Data-to-ML Engineer | Applied ML | Data Engineering | ML Systems**
 
-Boston, MA | [LinkedIn](https://linkedin.com/in/neel109) | [Email](mailto:v.n.v.bharath@gmail.com) | [Portfolio]((https://neelvadlamudi.github.io/neelresume/))
+Boston, MA | [LinkedIn](https://linkedin.com/in/neel109) | [Email](mailto:v.n.v.bharath@gmail.com) | [Portfolio][(https://neelvadlamudi.github.io/neelresume/)]
 
 </div>
 
