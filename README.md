@@ -4,7 +4,7 @@
 
 **Data-to-ML Engineer | Applied ML | Data Engineering | ML Systems**
 
-Boston, MA | [LinkedIn](https://linkedin.com/in/neel109) | [Email](mailto:v.n.v.bharath@gmail.com) | Portfolio[(https://neelvadlamudi.github.io/neelresume/)]
+Boston, MA | [LinkedIn](https://linkedin.com/in/neel109) | [Email](mailto:v.n.v.bharath@gmail.com) | [Portfolio](https://neelvadlamudi.github.io/neelresume/)
 
 </div>
 
@@ -61,4 +61,4 @@ My strongest lane is applied data-to-ML engineering: the space between raw data,
 
 - LinkedIn: [linkedin.com/in/neel109](https://linkedin.com/in/neel109)
 - GitHub: [github.com/NeelVadlamudi](https://github.com/NeelVadlamudi)
-- Portfolio / resume repo: [(https://neelvadlamudi.github.io/neelresume/)]
+- Portfolio: [neelvadlamudi.github.io/neelresume](https://neelvadlamudi.github.io/neelresume/)
