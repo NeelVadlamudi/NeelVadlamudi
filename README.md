@@ -20,7 +20,7 @@ My strongest lane is applied data-to-ML engineering: the space between raw data,
 |---|---|
 | Financial data systems | At HDFC Bank, supported Automated Data Flow across 8 source systems and 500K+ daily records, reducing reconciliation errors 60% and preventing $2.1M in exposure. |
 | Data infrastructure | Built Azure Databricks Bronze/Silver/Gold workflows across 2.3M+ records from 5 agencies; reduced runtime from 14h to 8h and supported Kubernetes infrastructure with 99.7% uptime. |
-| Applied ML research | In UMBC research with Meta AI collaboration, fine-tuned BERT/GPT/T5 across 12+ datasets, improved accuracy 15%, and surfaced 3 systematic bias issues through adversarial evaluation. |
+| Applied ML research | In LAWT - Linear Algebra with Transformers research at UMBC, implemented the analysis workflow, replicated the transformer algorithm across 12+ datasets, improved accuracy 15%, and surfaced 3 systematic bias issues through adversarial evaluation. |
 | End-to-end ML products | Built SBDR, a customer risk intelligence system over 30,000 customers with 93.4% accuracy, 0.990 AUC-ROC, SHAP/LIME explainability, and demographic fairness auditing. |
 
 ## Where I Fit Best
