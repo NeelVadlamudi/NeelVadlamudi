@@ -2,7 +2,7 @@
 
 # Neel Vittal Bharath Vadlamudi
 
-**Data Infrastructure & Technical PM Delivery | Applied ML | Data Engineering | ML Systems**
+**Data Infrastructure & Technical PM Delivery | Decision Analytics | Applied ML | Data Engineering**
 
 Boston, MA | [LinkedIn](https://linkedin.com/in/neel109) | [Email](mailto:v.n.v.bharath@gmail.com) | [Portfolio](https://neelvadlamudi.github.io/neelresume/)
 
@@ -10,7 +10,7 @@ Boston, MA | [LinkedIn](https://linkedin.com/in/neel109) | [Email](mailto:v.n.v.
 
 ---
 
-I build production-minded data and ML systems: regulatory data pipelines, research-grade model evaluation, cloud workspaces, full-stack analytics products, and the delivery structure that turns noisy real-world data into decisions.
+I build production-minded data and ML systems: regulatory data pipelines, research-grade model evaluation, decision analytics, cloud workspaces, full-stack analytics products, and the delivery structure that turns noisy real-world data into decisions.
 
 My strongest lane is the space between technical execution and delivery: raw data, reliable pipelines, model performance, validation evidence, stakeholder updates, and clean handoffs.
 
@@ -37,6 +37,10 @@ My strongest lane is the space between technical execution and delivery: raw dat
 
 | System | Problem Solved | Outcome | Stack |
 |---|---|---|---|
+| [PulsePath Member Activation & Retention](https://github.com/NeelVadlamudi/pulsepath-member-analytics) | Turns an onboarding question into a staged rollout decision with KPI definitions, guardrails, SQL, notebook evidence, dashboard, and validation. | Synthetic case: guided onboarding showed 89 more activations per 1,000 while day-60 paid retention stayed uncertain; recommendation preserves a comparison group. | Python, SQL, React, notebooks, pytest, product analytics |
+| [Pitcher Fatigue Profile](https://github.com/NeelVadlamudi/pitcher-fatigue-profile) | Tests whether within-start pitcher velocity decline is real enough to trust after controlling for pitch type, game context, coverage, and survivor bias. | Logan Webb 2024 validation: 33 eligible starts, no supported 1 mph threshold, 0.75 mph held-out MAE, 23 passing tests, 75% branch-aware coverage. | Python, Streamlit, Statcast, pybaseball, pytest |
+| [Datacenter Market Analytics Model](https://github.com/NeelVadlamudi/microsoft_datacenter_market_model) | Screens AI/cloud datacenter markets across demand, feasibility, power, cooling, fiber, permitting, and risk using public sources and explicit assumptions. | Scenario model ranks markets under base, power-first, and inference-first views with executive brief, CSV outputs, and assumption caveats. | Python, scenario modeling, public-source research, CSV, Markdown |
+| [Basketball Decision-Support Model](https://github.com/NeelVadlamudi/basketball_decision_support_model) | Converts a vague lineup question into model-backed basketball decision support with role fit, sample size, tactical context, and uncertainty. | Synthetic case: 4,428 possessions, 12 lineup profiles, validation MAE 0.269 points per possession, SQL outputs, and coaching-friendly brief. | Python, SQL, Random Forest, bootstrap uncertainty |
 | [CDC Outbreak AI Dashboard](https://github.com/NeelVadlamudi/cdc-outbreak-dashboard) | Converts public-health outbreak data into searchable, forecastable intelligence. | LSTM surge forecasting, DuckDB analytics, Monte Carlo uncertainty, RAG-style plain-English access. | React, FastAPI, Python, DuckDB, CDC SODA API, LSTM, Plotly, WebGL |
 | SBDR: Sentimental-Behavioral Debt Recovery | Classifies customer recovery risk with explainable ML instead of static repayment rules. | 93.4% accuracy, 0.990 AUC-ROC, 26.1% SHAP signal, fairness audit across 30,000 customers. | FinBERT, BiLSTM, XGBoost, SHAP, LIME, Streamlit |
 | [UMBC SmartShuttle](https://github.com/NeelVadlamudi/UMBC-SmartShuttle) | Predicts shuttle demand from 700MB+ simulated transit data and supports event-aware campus transportation decisions. | 85% decision-tree accuracy, route clustering, peak-load analysis, sustainability metrics. | Apache Spark, Spark SQL, MLlib, Databricks, Python |
@@ -50,13 +54,14 @@ My strongest lane is the space between technical execution and delivery: raw dat
 **Machine Learning:** PyTorch, Hugging Face, scikit-learn, XGBoost, LSTM, Transformers, SHAP, LIME, model evaluation  
 **Applications:** FastAPI, Flask, Streamlit, React, Plotly, Power BI, Tableau  
 **Cloud and Infrastructure:** Kubernetes, Azure Databricks, reproducible cloud workspaces, API-backed analytics systems  
-**Domains:** financial risk, healthcare surveillance, road safety, transportation analytics, IoT sensor forecasting
+**Decision Analytics:** KPI contracts, experiment interpretation, scenario modeling, uncertainty, executive briefs, validation reports  
+**Domains:** financial risk, healthcare surveillance, road safety, transportation analytics, sports analytics, IoT sensor forecasting
 
 ## What Recruiters Should Look For
 
 - I am strongest in roles where the team needs someone who can move from messy data to model-ready datasets, evaluation metrics, usable decision tools, and accountable delivery.
 - I am not only a notebook builder; my work includes production pipelines, Kubernetes-hosted research environments, API layers, dashboards, and client-facing delivery.
-- My best-fit titles are Technical Program Manager, Data PM, Data Engineer, Analytics Engineer, Applied Data Scientist, ML Engineer, and AI Engineer for product or platform teams.
+- My best-fit titles are Technical Program Manager, Data PM, Data Engineer, Analytics Engineer, Product Analyst, Decision Analyst, Applied Data Scientist, ML Engineer, and AI Engineer for product or platform teams.
 
 ## Links
 
