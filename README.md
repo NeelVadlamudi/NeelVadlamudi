@@ -29,6 +29,7 @@ My strongest lane is the space between technical execution and delivery: raw dat
 |---|---|
 | Applied Data Scientist / ML Engineer | SBDR, CDC Outbreak AI, transformer evaluation, explainability, forecasting, and benchmark-driven model improvement. |
 | Data Engineer / Analytics Engineer | Databricks, PySpark, medallion ETL, HDFC regulatory pipelines, multi-source reconciliation, and runtime optimization. |
+| Product / Decision Analytics | PulsePath, datacenter market modeling, basketball decision support, KPI contracts, uncertainty, validation reports, and executive briefs. |
 | Fintech / Risk Analytics | HDFC regulatory automation, debt recovery intelligence, portfolio risk metrics, anomaly detection, and executive reporting. |
 | Healthcare / Public Sector AI | CDC surveillance analytics, IoT air-quality forecasting, transportation safety analytics, and client-facing dashboards. |
 | Technical Program Manager / Data PM | CLMS lifecycle delivery, BRDs, UAT, defect tracking, vendor follow-up, release notes, support handoffs, and cloud workspace operations. |
