@@ -6,6 +6,7 @@ Data Analyst / Data Scientist · Boston, MA
 I dig into a question until I see what is going on. SQL, Python, dashboards, and clean paths the next person can follow.
 
 **Recent work**
+- [Mirage](https://neelvadlamudi.github.io/mirage/) — empty shelves, wrong book, stuck in backroom, plus where the DC truck goes ([repo](https://github.com/NeelVadlamudi/mirage))
 - Brigham and Women's Hospital: clinical data analysis for maternal health
 - HDFC Bank: regulatory reporting, then contract systems
 - [PulsePath](https://github.com/NeelVadlamudi/pulsepath-member-analytics)
