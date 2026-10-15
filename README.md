@@ -6,6 +6,7 @@ Data Analyst / Data Scientist · Boston, MA
 I dig into a question until I see what is going on. SQL, Python, dashboards, and clean paths the next person can follow.
 
 **Recent work**
+- [Lantern](https://neelvadlamudi.github.io/lantern/): where the Boston subway falls behind schedule, built in dbt ([repo](https://github.com/NeelVadlamudi/lantern))
 - [Mirage](https://neelvadlamudi.github.io/mirage/) — empty shelves, wrong book, stuck in backroom, plus where the DC truck goes ([repo](https://github.com/NeelVadlamudi/mirage))
 - Brigham and Women's Hospital: clinical data analysis for maternal health
 - HDFC Bank: regulatory reporting, then contract systems
